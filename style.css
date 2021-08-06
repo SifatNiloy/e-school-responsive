@@ -1,0 +1,25 @@
+#first-section{
+    background-color:  #F0FFF0;
+}
+.red-text{
+    color: #FD511A;
+}
+.green-button{
+    color: white;
+    border-style: none;
+    background-color: #21B573;
+    padding: 5px 15px;
+    border-radius: 30px;
+}
+.card img{
+    border-radius: 20px;
+    padding: 15px;
+}
+footer{
+    background-color: #282531;
+    
+}
+footer p{
+    color: white;
+}
+
